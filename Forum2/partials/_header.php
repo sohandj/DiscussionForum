@@ -3,7 +3,7 @@ session_start();
 
 echo '<nav class="navbar bg-primary navbar-expand-lg" data-bs-theme="dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="/Forum2">Discussion Forum2</a>
+        <a class="navbar-brand" href="/Forum2">Discussion Forum</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -13,11 +13,18 @@ echo '<nav class="navbar bg-primary navbar-expand-lg" data-bs-theme="dark">
                     <a class="btn btn-primary nav-link " aria-current="page" href="/Forum2">Home</a>
                 </li>
                 <li class="nav-item">
+                    <a class="btn btn-primary nav-link" href="Categorylist.php">Categories</a>
+                </li>
+                <li class="nav-item">
+                    <a class="btn btn-primary nav-link" href="questions.php">Threads</a>
+                </li>
+                <li class="nav-item">
                     <a class="btn btn-primary nav-link" href="about.php">About</a>
                 </li>
                 <li class="nav-item">
                     <a class="btn btn-primary nav-link" href="contact.php">Contact</a>
                 </li>
+                
         </ul>        
             </div>
     </div>
