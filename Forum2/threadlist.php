@@ -1,4 +1,4 @@
-<!-- HOME Page -->
+<!-- Thread List Page -->
 
 <!doctype html>
 <html lang="en">
