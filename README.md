@@ -11,4 +11,4 @@ step 4: run xampp control panel , start Apache and mysql
 
 step 5: click on admin of mysql in xampp control panel
 
-step 6: 
+step 6: copy paste the database code to sql / myphpadmin --> forum2 --> sql
