@@ -1,3 +1,0 @@
-Added content to about page
-updated thread.php
-  solved few bugs found in thread.php
